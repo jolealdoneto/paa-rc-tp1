@@ -1,0 +1,8 @@
+https://vk.com/pages?oid=-17680044&p=Making_Requests_to_API
+http://api.vkontakte.ru/api.php?v=3.0&api_id=1901988&method=getProfiles&format=json&uids=100172&sid=10180116c4fd93480439bca47d636d6dd75fac30b851d4312e82ec3523&sig=5be698cf7fa09d30f58b941a4aea0e9b
+https://vk.com/pages?oid=-17680044&p=API_Method_Description
+https://vk.com/pages?oid=-17680044&p=Authorizing_Client_Applications
+
+https://vk.com/editapp?id=4513675&section=options
+http://api.vkontakte.ru/blank.html#access_token=64fd7e36eb3a1a8c77ef94542176829eb51627dd28e738dcefbf3e17fc2a6300ec9fb1ee9826dfb3e2da2&expires_in=86400&user_id=83278039
+https://api.vk.com/method/getProfiles?access_token=64fd7e36eb3a1a8c77ef94542176829eb51627dd28e738dcefbf3e17fc2a6300ec9fb1ee9826dfb3e2da2&domains=onevictoria
